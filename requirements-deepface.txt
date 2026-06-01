@@ -1,0 +1,4 @@
+-r requirements-base.txt
+deepface>=0.0.93,<1
+tf-keras>=2.16,<3
+
