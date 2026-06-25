@@ -28,6 +28,5 @@ Press `q` to stop the webcam demos. The face-status demo also accepts `Esc`.
   accurate for production applications.
 - Face verification should be used with consent and tested carefully for the
   intended environment.
-- The original dual-hand-control placeholder was empty, so it is documented in
-  the repository-level source review notes rather than published as a program.
+
 
